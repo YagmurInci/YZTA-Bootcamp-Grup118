@@ -1,7 +1,7 @@
 # Yapay Zeka ve Teknoloji Akademisi - Bootcamp 2026
 
 ## Takım Bilgileri
-* **Takım İsmi:** Takım X (Buraya kendi takım adınızı yazın)
+* **Takım İsmi:** Grup-118
 * **Dnem/Cohort:** 5. Akademi Dönemi
 
 ## Takım Elemanları ve Rolleri
