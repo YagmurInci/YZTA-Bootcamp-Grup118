@@ -1,4 +1,3 @@
-# YZTA-Bootcamp-Grup118
 # Yapay Zeka ve Teknoloji Akademisi - Bootcamp 2026
 
 ## Takım Bilgileri
