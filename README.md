@@ -6,7 +6,7 @@
 
 ## Takım Elemanları ve Rolleri
 * **Yağmur İNCİ:** Scrum Master (İletişim Sorumlusu)
-* **[Ad Soyad]:** Product Owner (Ürün Sahibi)
+* **Ayşe Mesrure SARI:** Product Owner (Ürün Sahibi)
 * **[Ad Soyad]:** Developer (Geliştirici)
 * **[Ad Soyad]:** Developer (Geliştirici)
 * **[Ad Soyad]:** Developer (Geliştirici)
