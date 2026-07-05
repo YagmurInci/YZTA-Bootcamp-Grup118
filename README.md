@@ -37,10 +37,12 @@ Bu sprintte uygulamanın teknik altyapı araştırmalarına ve proje yönetimi i
 
 ### 2. Sprint Board Updates
 Görevlerin güncel durumunu gösteren Sprint 1 tahtamız:
+
 <img width="1067" height="467" alt="image" src="https://github.com/user-attachments/assets/8d4549d8-6543-4356-b5d3-8b1926b74fa7" />
 
 ### 3. Ürün Durumu
 Bu sprintte, uygulamanın çekirdek mimarisi ve kullanıcı deneyimi konseptleri üzerine yoğunlaşılmıştır. Hangi framework ve teknolojilerin kullanılacağının fizibilite çalışmaları yapılmış; istemci ile sunucu arasındaki veri akış senaryoları planlanmıştır. 
+
 <img width="521" height="305" alt="image" src="https://github.com/user-attachments/assets/9faa165d-6e4a-4630-b033-3987e186ac75" />
 
 
