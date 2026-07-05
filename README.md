@@ -7,15 +7,15 @@
 ## Takım Elemanları ve Rolleri
 * **Yağmur İNCİ:** Scrum Master (İletişim Sorumlusu)
 * **Ayşe Mesrure SARI:** Product Owner (Ürün Sahibi)
-* **[Ad Soyad]:** Developer (Geliştirici)
+* **Ecem ŞİMŞEK:** Developer (Geliştirici)
 * **[Ad Soyad]:** Developer (Geliştirici)
 * **[Ad Soyad]:** Developer (Geliştirici)
 
 ---
 
 ## Ürün Bilgileri
-* **Ürün İsmi:** [Projenizin Adı]
-* **Ürün Açıklaması:** [Projenizin ne işe yaradığını, hangi problemi çözdüğünü buraya 2-3 cümleyle açıklayın]
+* **Ürün İsmi:** Gezgin
+* **Ürün Açıklaması:** Seyehat edilen yerleri kaydedip paylaşabileceğin bir platform.
 
 ### Ürün Özellikleri
 * Özellik 1 (Örn: Kullanıcı giriş sistemi)
@@ -23,16 +23,22 @@
 * Özellik 3 (Örn: Veri görselleştirme paneli)
 
 ### Hedef Kitle
-* [Örn: Yazılım geliştiriciler, 18-35 yaş arası teknoloji meraklıları vb.]
+* Seyehat etmeyi seven, sevmese de gittiği yerleri düzenli bir şekilde kaydetmek isteyen ve öneriler almak isteyen insanlar
 
 ---
 
 ## Proje Yönetimi
-* **Product Backlog URL:** [Miro veya Trello Backlog Board linkinizi buraya yapıştırın]
+* **Product Backlog URL:** 
 
 ---
+## Sprint 1
+### 1. Backlog Dağıtma Mantığı
+Bu sprintte uygulamanın teknik altyapı araştırmalarına ve proje yönetimi iskeletinin kurulmasına öncelik verilmiştir. Görevler, mimari kararların alınabilmesi adına teknoloji ve tasarım araştırmaları etrafında şekillendirilmiş ve ekip üyelerine dağıtılmıştır.
 
-## Sprint Kanıtları
-* [Sprint 1 Klasörü](./Sprint1/) - Daily Scrum Notları ve Board Ekran Görüntüleri
-* [Sprint 2 Klasörü](./Sprint2/) - Daily Scrum Notları ve Board Ekran Görüntüleri
-* [Sprint 3 Klasörü](./Sprint3/) - Daily Scrum Notları ve Board Ekran Görüntüleri
+### 2. Sprint Board Updates
+Görevlerin güncel durumunu gösteren Sprint 1 tahtamız:
+<img width="1067" height="467" alt="image" src="https://github.com/user-attachments/assets/8d4549d8-6543-4356-b5d3-8b1926b74fa7" />
+
+### 3. Ürün Durumu
+Bu sprintte, uygulamanın çekirdek mimarisi ve kullanıcı deneyimi konseptleri üzerine yoğunlaşılmıştır. Hangi framework ve teknolojilerin kullanılacağının fizibilite çalışmaları yapılmış; istemci ile sunucu arasındaki veri akış senaryoları planlanmıştır. 
+
