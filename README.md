@@ -8,8 +8,6 @@
 * **Yağmur İNCİ:** Scrum Master (İletişim Sorumlusu)
 * **Ayşe Mesrure SARI:** Product Owner (Ürün Sahibi)
 * **Ecem ŞİMŞEK:** Developer (Geliştirici)
-* **[Ad Soyad]:** Developer (Geliştirici)
-* **[Ad Soyad]:** Developer (Geliştirici)
 
 ---
 
